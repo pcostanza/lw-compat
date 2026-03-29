@@ -1,3 +1,5 @@
+This repository has moved to https://codeberg.org/pcostanza/lw-compat
+
 # lw-compat
 A few utility functions from the LispWorks library that I regularly use, ported to other Common Lisp implementations.
 
